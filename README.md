@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on **data-driven projects, HR analytics, and social media insights.**  
 - 📫 How to reach me:  
   - 📩 Email: alexandra.eremia.06@gmail.com  
-  - 🔗 LinkedIn: [Alexandra Eremia](https://www.linkedin.com/in/alexandra-eremia-53882953/)  
+  - 🔗 LinkedIn: [Alexandra Eremia](https://www.linkedin.com/in/alexandra-eremia-53882953/)
+  - 📊 Kaggle Portfolio: [Top 500 Manga Analysis Notebook](https://www.kaggle.com/code/alexandraeremia06/top-500-manga-analysis)
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I have lived in Romania, Germany, and Japan! I love gaming, hiking, and Japanese cinema.**  
 
