@@ -7,7 +7,7 @@
   - 🔗 LinkedIn: [Alexandra Eremia](https://www.linkedin.com/in/alexandra-eremia-53882953/)
   - 📊 Kaggle Portfolio: [Top 500 Manga Analysis Notebook](https://www.kaggle.com/code/alexandraeremia06/top-500-manga-analysis)
 - 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: **I have lived in Romania, Germany, and Japan! I love gaming, hiking, and Japanese cinema.**  
+- ⚡ More about me: **I have lived in Romania, Germany, and Japan! I love gaming, hiking, and Japanese cinema.**  
 
 <!---
 alexandraeremia06/alexandraeremia06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
