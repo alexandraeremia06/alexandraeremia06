@@ -32,7 +32,7 @@ Spanish (Intermediate B1-level)
 📫 How to reach me:  
 📩 Email: alexandra.eremia.06@gmail.com  
 🔗 LinkedIn: [Alexandra Eremia](https://www.linkedin.com/in/alexandra-eremia-53882953/)
-📊 Kaggle Portfolio: [Top 500 Manga Analysis Notebook](https://www.kaggle.com/code/alexandraeremia06/top-500-manga-analysis)
+📊 Kaggle Portfolio: [Top 500 Manga Analysis Notebook]([https://www.kaggle.com/code/eremiaalexandra06/top-500-manga-analysis-of-ratings-and-chapters)
 😄 Pronouns: **She/Her**  
 ⚡ More about me: **I have lived in Romania, Germany, and Japan! I love gaming, hiking, and Japanese cinema**  
 
