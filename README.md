@@ -1,40 +1,47 @@
 🚀 **Background**
 
-👋 Hi, I’m Alexandra
-I grew up in Bucharest, Romania
-I currently live in Frankfurt, Germany
-I have a **Bachelor's Degree** in **Linguistics and Languages in Japanese and English Studies** (Romania)
-I have a **Master's Degree** in **Journalism and Political Communication** (Romania)
-I have a **Master's Degree** in **Modern East Asian Studies** with a focus on the Japanese legal system and business in Japan (Germany & Japan)
-I completed a **Data Analyst internship** at a startup with over 150 employees, where I gained hands-on experience applying business analysis to real-world scenarios
-I completed a 6-month **Google Data Analytics Professional Certificate**, getting hands-on experience with **spreadsheets, SQL, Tableau, and R** through practice-based assessments and projects
-I’m currently completing a **Python Specialization** from the University of Michigan on Coursera to develop my programming skills in Python
-👀 I’m interested in **data analytics, business intelligence, HR analytics, and process optimization**  
-🌱 I’m currently learning **SQL, Python, and R for data analysis, advanced Tableau, Power BI, and AI-driven analytics**  
-💞️ I want to collaborate on **business analysis, data-driven projects, HR analytics, and social media insights**
+👋 Hi, I’m Alexandra!
+📍 From: Bucharest, Romania
+🏙️ Currently in: Frankfurt, Germany
 
+🎓 Education
+B.A. in Linguistics and Languages (Japanese & English Studies) – Romania
+M.A. in Journalism and Political Communication – Romania
+M.A. in Modern East Asian Studies – Germany & Japan
+(Focus: Japanese legal system and business culture)
+
+💼 Professional Experience & Training
+Data Analyst Intern at a startup (150+ employees) — hands-on experience applying business analysis to real-world projects
+Google Data Analytics Certificate — practical work with Spreadsheets, SQL, Tableau & R
+Python Specialization – University of Michigan (Coursera) — developing programming and data analysis skills
+🚀 Upcoming: Le Wagon Data Analytics Bootcamp (400h) — in-depth training in Python, SQL, Excel & Power BI
+📊 Interests & Focus Areas
+Data Analytics • Business Intelligence • HR Analytics • Process Optimization
+Currently learning Advanced Tableau, Power BI, SQL, Python, R, and AI-driven analytics
+
+💞️ Open to Collaborations On:
+Business analysis • Data-driven projects • HR analytics • Social media insights
  ⛏️**Tools**
 
 **Language**: Python, R
 **Collection and Storage**: SQL, SQLite, MySQL
 **Visualisation**: Excel, Tableau, Power BI
 
-
 🌏 **Languages**
+Romanian (Native C2)
+English (Professional C1)
+Japanese (Professional C1)
+German (Intermediate B1)
+Spanish (Intermediate B1)
 
-Romanian (Native C2-level)
-English (Professional C1-level)
-Japanese (Professional C1-level)
-German (Intermediate B1-level)
-Spanish (Intermediate B1-level)
 
-
-📫 How to reach me:  
-📩 Email: alexandra.eremia.06@gmail.com  
-🔗 LinkedIn: [Alexandra Eremia](https://www.linkedin.com/in/alexandra-eremia-53882953/)
-📊 Kaggle Portfolio: [(https://www.kaggle.com/work)
-😄 Pronouns: **She/Her**  
-⚡ More about me: **I have lived in Romania, Germany, and Japan! I love gaming, hiking, and Japanese cinema**  
+📫 How to Reach Me
+📩 Email: alexandra.eremia.06@gmail.com
+🔗 LinkedIn: linkedin.com/in/alexandra-eremia-53882953
+📊 Kaggle Portfolio: kaggle.com/work
+📈 Maven Showcase: mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3
+😄 Pronouns: She/Her
+⚡ More about me: I’ve lived in Romania, Germany, and Japan. I love gaming, hiking, and Japanese cinema!
 
 <!---
 alexandraeremia06/alexandraeremia06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
