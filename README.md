@@ -42,7 +42,7 @@ Spanish (Intermediate B1)
 - 📈 **Maven Showcase:** [mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3](https://mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3)
 
 😄 **Pronouns:** She/Her  
-⚡ **More about me:** I’ve lived in **Romania, Germany, and Japan** — and I lov
+⚡ **More about me:** I’ve lived in **Romania, Germany, and Japan** 
 
 😄 Pronouns: She/Her
 ⚡ More about me: I’ve lived in Romania, Germany, and Japan. I love gaming, hiking, and Japanese cinema!
