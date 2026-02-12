@@ -11,10 +11,10 @@ M.A. in Modern East Asian Studies – Germany & Japan
 (Focus: Japanese legal system and business culture)
 
 💼 Professional Experience & Training
-Data Analyst Intern at a startup (150+ employees) — hands-on experience applying business analysis to real-world projects
-Google Data Analytics Certificate — practical work with Spreadsheets, SQL, Tableau & R
-Python Specialization – University of Michigan (Coursera) — developing programming and data analysis skills
-🚀 Upcoming: Le Wagon Data Analytics Bootcamp (400h) — in-depth training in Python, SQL, Excel & Power BI
+**LeWagon Data Analytics Bootcamp** — 11 weeks intensive hands-on experience woorking with data end to end. Skills and tools covered: - analytical thinking, KPIS and BI essentials; APIs, ELT pipelines, GA4, Zapier, n8n, sSpreadsheets, cohorts, funnels, marketing & financial metrics, SQL, BigQuery, dbt, PowerBI, Looker, data visualization, storytelling, Python, pandas, NumPy, automation and EDA, Machine learning (Jupyter, scikit-learn, clustering, predictive models such as linear & logistic regression and decision trees, Matplotlib). 
+**Data Analyst Intern** at a startup (150+ employees) — hands-on experience applying business analysis to real-world projects
+**Google Data Analytics Certificate** — practical work with Spreadsheets, SQL, Tableau & R
+**Python Specialization** – University of Michigan (Coursera) — developing programming and data analysis skills
 📊 Interests & Focus Areas
 Data Analytics • Business Intelligence • HR Analytics • Process Optimization
 Currently learning Advanced Tableau, Power BI, SQL, Python, R, and AI-driven analytics
@@ -39,7 +39,7 @@ Spanish (Intermediate B1)
 - 📧 **Email:** [alexandra.eremia.06@gmail.com](mailto:alexandra.eremia.06@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/alexandra-eremia-53882953](https://www.linkedin.com/in/alexandra-eremia-53882953/)  
 - 📊 **Kaggle Portfolio:** [kaggle.com/work](https://www.kaggle.com/work)  
-- 📈 **Maven Showcase:** [mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3](https://mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3)
+- 🚀  **Maven Showcase:** [mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3](https://mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3)
 
 😄 **Pronouns:** She/Her  
 ⚡ **More about me:** I’ve lived in **Romania, Germany, and Japan** 
