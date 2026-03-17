@@ -41,11 +41,11 @@ Spanish (Intermediate B1)
 
 
 📫 How to Reach Me:
-- 📧 **Email:** [alexandra.eremia.06@gmail.com](mailto:alexandra.eremia.06@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/alexandra-eremia-53882953](https://www.linkedin.com/in/alexandra-eremia-53882953/)  
-- 📊 **Kaggle Portfolio:** [kaggle.com/work](https://www.kaggle.com/work)  
-- 🚀  **Maven Showcase:** [mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3](https://mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3)
-- 👉 **Notion Portfolio:** https://www.notion.so/3263ec717eb680a6b0d5de9debfa931b?v=3263ec717eb680b5bb6d000ca0a92328&source=copy_link
+- 📧 Email: [alexandra.eremia.06@gmail.com](mailto:alexandra.eremia.06@gmail.com)
+- 🔗 LinkedIn: [alexandra-eremia](https://www.linkedin.com/in/alexandra-eremia-53882953/)
+- 📊 Kaggle: [kaggle.com/work](https://www.kaggle.com/work)
+- 🚀 Maven: [Profile](https://mavenshowcase.com/profile/184133e0-5011-7039-1fea-ca1a95a54fd3)
+- 👉 Notion: [Portfolio](https://www.notion.so/3263ec717eb680a6b0d5de9debfa931b?v=3263ec717eb680b5bb6d000ca0a92328&source=copy_link)
 
 😄 **Pronouns:** She/Her  
 ⚡ **More about me:** I’ve lived in **Romania, Germany, and Japan** 
